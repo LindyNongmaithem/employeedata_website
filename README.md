@@ -44,4 +44,4 @@ A simple Angular-based Employee Dashboard that allows users to manage employee r
 
 
 
-Created as part of a technical assessment for Vantage Circle.
+
